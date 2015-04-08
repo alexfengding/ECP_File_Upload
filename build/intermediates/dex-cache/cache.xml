@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\pre-dexed\debug\classes-55ba9454031336cf8b3f8b8c069e28de46a2e449.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b47ae4d36661bd271b59500f786f3fc4b206f625.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\exploded-aar\ECP_File_Upload.libraries\dropboxChooserSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0b384f81d1d28f617db66955b702a5fc61830c9">
+        <dex dex="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\pre-dexed\debug\classes-c83822a3233621f8cd9503932cf50382f5896cc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\pre-dexed\debug\classes-f05fb048814459def97168af51b6c60c8d54c297.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\pre-dexed\debug\classes-d7dadce007481bc06d8d62f8f33086236aae6ea2.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\winds_000\Documents\GitHub\ECP_File_Upload\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7277e85f1d62412078e3bdc86be1efb215ce0c6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\Development\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-68cc02e512411a38277486fe40d05fdbb192e960.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\exploded-aar\FileUpload.libraries\dropboxChooserSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="30653117241cb35047f3c5d360037261fdc06932">
+        <dex dex="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\pre-dexed\debug\classes-5b5ca894e8d93f7caa54c29f23db6f978e8b8700.jar" />
+    </item>
+    <item
+        jar="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\winds_000\AndroidStudioProjects\FileUpload\app\build\intermediates\pre-dexed\debug\classes-a7528a54786946b6576120d96ae6d0bde1493a73.jar" />
+    </item>
+
+</items>

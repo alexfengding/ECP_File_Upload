@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.winds_000.fileupload" >
+
+    <uses-feature android:name="android.hardware.camera"
+        android:required="true" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FileUploadActivity"
+            android:label="@string/title_activity_file_upload" >
+        </activity>
+        <activity
+            android:name=".DropboxActivity"
+            android:label="@string/title_activity_dropbox" >
+        </activity>
+        <activity
+            android:name=".CameraFileActivity"
+            android:label="@string/title_activity_camera_file" >
+        </activity>
+
+    </application>
+
+</manifest>
