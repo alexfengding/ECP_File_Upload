@@ -2,8 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.winds_000.fileupload" >
 
-    <uses-feature android:name="android.hardware.camera"
+    <uses-feature
+        android:name="android.hardware.camera"
         android:required="true" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -30,7 +32,14 @@
             android:name=".CameraFileActivity"
             android:label="@string/title_activity_camera_file" >
         </activity>
-
+        <activity
+            android:name=".OnedriveActivity"
+            android:label="@string/title_activity_onedrive" >
+        </activity>
+        <activity
+            android:name=".BoxActivity"
+            android:label="@string/title_activity_box" >
+        </activity>
     </application>
 
 </manifest>

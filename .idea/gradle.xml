@@ -5,13 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Users\winds_000\Development\android-studio\gradle\gradle-2.2.1" />
-        <option name="gradleJvm" value="JDK" />
+        <option name="gradleHome" value="C:\Users\Fding\Development\android-studio\gradle\gradle-2.2.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/libraries" />
+            <option value="$PROJECT_DIR$/libraries/OneDriveSDK" />
             <option value="$PROJECT_DIR$/libraries/dropboxChooserSDK" />
           </set>
         </option>
@@ -19,3 +19,4 @@
     </option>
   </component>
 </project>
+

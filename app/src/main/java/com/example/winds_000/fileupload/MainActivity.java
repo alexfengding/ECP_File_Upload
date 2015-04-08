@@ -12,7 +12,7 @@ import android.widget.ImageButton;
 
 public class MainActivity extends ActionBarActivity {
 
-    private ImageButton uploadBtn,dbxBtn,boxBtn,camBtn;
+    private ImageButton uploadBtn,dbxBtn,onedrivebtn,boxBtn,camBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,8 +50,23 @@ public class MainActivity extends ActionBarActivity {
             }
         });
 
+        onedrivebtn = (ImageButton) findViewById(R.id.onedriveButton);
+        onedrivebtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent onedriveIntent = new Intent(MainActivity.this, OnedriveActivity.class);
+                startActivity(onedriveIntent);
+            }
+        });
+
         boxBtn = (ImageButton) findViewById(R.id.boxButton);
-        /* TODO */
+        boxBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent boxIntent = new Intent(MainActivity.this, BoxActivity.class);
+                startActivity(boxIntent);
+            }
+        });
 
     }
 

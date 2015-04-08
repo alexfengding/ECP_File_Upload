@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Fding/AndroidStudioProjects/FileUpload/libraries/dropboxChooserSDK/build/intermediates/bundles/debug/res/values-sw600dp-v13/values.xml -->
+    <!-- From: file:/C:/Users/Fding/Documents/GitHub/ECP_File_Upload/libraries/dropboxChooserSDK/build/intermediates/bundles/debug/res/values-sw600dp-v13/values.xml -->
     <eat-comment/>
     <dimen name="dbx_action_bar_default_height">56dip</dimen>
     <dimen name="dbx_action_bar_icon_vertical_padding">4dip</dimen>
